@@ -1,0 +1,17 @@
+E:\NXJC\项目文件\ProductionManagement\ProductionManagement\ProductionManagement.Web\bin\ProductionManagement.Web.dll.config
+E:\NXJC\项目文件\ProductionManagement\ProductionManagement\ProductionManagement.Web\bin\ProductionManagement.Web.dll
+E:\NXJC\项目文件\ProductionManagement\ProductionManagement\ProductionManagement.Web\bin\ProductionManagement.Web.pdb
+E:\NXJC\项目文件\ProductionManagement\ProductionManagement\ProductionManagement.Web\bin\WebStyleBaseForEnergy.dll
+E:\NXJC\项目文件\ProductionManagement\ProductionManagement\ProductionManagement.Web\bin\WebUserContorls.Web.dll
+E:\NXJC\项目文件\ProductionManagement\ProductionManagement\ProductionManagement.Web\bin\WebUserControls.Infrastructure.dll
+E:\NXJC\项目文件\ProductionManagement\ProductionManagement\ProductionManagement.Web\bin\WebUserControls.Service.dll
+E:\NXJC\项目文件\ProductionManagement\ProductionManagement\ProductionManagement.Web\bin\mDbDataAdaper.dll
+E:\NXJC\项目文件\ProductionManagement\ProductionManagement\ProductionManagement.Web\bin\InternalMemeryRestore.dll
+E:\NXJC\项目文件\ProductionManagement\ProductionManagement\ProductionManagement.Web\bin\EasyUIJsonParser.dll
+E:\NXJC\项目文件\ProductionManagement\ProductionManagement\ProductionManagement.Web\bin\SqlServerDataAdapter.dll
+E:\NXJC\项目文件\ProductionManagement\ProductionManagement\ProductionManagement.Web\bin\AutoMapper.dll
+E:\NXJC\项目文件\ProductionManagement\ProductionManagement\ProductionManagement.Web\obj\Debug\ProductionManagement.Web.csprojResolveAssemblyReference.cache
+E:\NXJC\项目文件\ProductionManagement\ProductionManagement\ProductionManagement.Web\obj\Debug\ProductionManagement.Web.dll
+E:\NXJC\项目文件\ProductionManagement\ProductionManagement\ProductionManagement.Web\obj\Debug\ProductionManagement.Web.pdb
+E:\NXJC\项目文件\ProductionManagement\ProductionManagement\ProductionManagement.Web\bin\ProductionManagement.Infrastructure.dll
+E:\NXJC\项目文件\ProductionManagement\ProductionManagement\ProductionManagement.Web\bin\ProductionManagement.Infrastructure.pdb

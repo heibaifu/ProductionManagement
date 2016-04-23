@@ -1,0 +1,4 @@
+E:\NXJC\项目文件\ProductionManagement\ProductionManagement\ProductionManagement.Infrastructure\bin\Debug\ProductionManagement.Infrastructure.dll
+E:\NXJC\项目文件\ProductionManagement\ProductionManagement\ProductionManagement.Infrastructure\bin\Debug\ProductionManagement.Infrastructure.pdb
+E:\NXJC\项目文件\ProductionManagement\ProductionManagement\ProductionManagement.Infrastructure\obj\Debug\ProductionManagement.Infrastructure.dll
+E:\NXJC\项目文件\ProductionManagement\ProductionManagement\ProductionManagement.Infrastructure\obj\Debug\ProductionManagement.Infrastructure.pdb
